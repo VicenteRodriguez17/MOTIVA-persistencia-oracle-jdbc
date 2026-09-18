@@ -9,8 +9,8 @@ public class ConexaoBD {
     private static final String HOST = "oracle.fiap.com.br";
     private static final String PORTA = "1521";
     private static final String SERVICO = "ORCL";
-    private static final String USUARIO = "RM563865";
-    private static final String SENHA = "090607";
+    private static final String USUARIO = "USUARIO";
+    private static final String SENHA = "SENHA";
 
     private static final String URL =
             "jdbc:oracle:thin:@//" + HOST + ":" + PORTA + "/" + SERVICO;
